@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AlkalineMetalsTarget" size="1.000000 0.533333" />
+    <ImageTarget name="HalogensTarget" size="1.000000 0.533333" />
+    <ImageTarget name="LanthanidesTarget" size="1.000000 0.533333" />
+    <ImageTarget name="MetalloidsTarget" size="1.000000 0.533333" />
+    <ImageTarget name="OtherMetalsTarget" size="1.000000 0.533333" />
+    <ImageTarget name="NobleGasTarget" size="1.000000 0.533333" />
+    <ImageTarget name="TransitionMetalsTarget" size="1.000000 0.533333" />
+    <ImageTarget name="ActinidesTarget" size="1.000000 0.533333" />
+    <ImageTarget name="NonMetalsTarget" size="1.000000 0.533333" />
+  </Tracking>
+</QCARConfig>
