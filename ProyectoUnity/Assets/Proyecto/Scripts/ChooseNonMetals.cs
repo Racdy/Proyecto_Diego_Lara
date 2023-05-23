@@ -7,9 +7,7 @@ using Vuforia;
 public class ChooseNonMetals : MonoBehaviour
 {
     private Camera cameraAR;
-    private bool apperModel = true;
     public GameObject[] atoms;
-    private int nButton;
     string button;
     // Start is called before the first frame update
     void Start()
@@ -69,7 +67,7 @@ public class ChooseNonMetals : MonoBehaviour
         }
     }
 
-    public void appearA(int nBotton)
+    public void appearA(int nButton)
     {
 
         if (atoms[nButton].activeSelf)
